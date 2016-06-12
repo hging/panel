@@ -1,0 +1,15 @@
+{
+  "name": "panel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "filterizr": "^1.2.4",
+    "jspanel3": "^3.0.0-rc.2.4"
+  }
+}
